@@ -1,6 +1,5 @@
 # some problems when not input standar radius, but not always
 # runs correctly with same radius
-# not with limits
 import pprint
 import sys
 from collections import deque
