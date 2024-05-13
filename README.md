@@ -5,7 +5,7 @@ Assignments for the «Algorithms and Data Structures» course (2020). Three assi
 * 1st assignment: Fixed Polyominoes - computes the count of fixed polyominoes for every conceivable set of n squares.
 
 
-* 2nd assignment:Network Destruction - investigates the immunization process within a provided network.
+* 2nd assignment: Network Destruction - investigates the immunization process within a provided network.
 
 
 * 3rd assignment: Social Distancing - develops a plan to distribute individuals within indoor spaces effectively, aiming to mitigate the transmission of the coronavirus.
